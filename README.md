@@ -480,4 +480,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with ❤️ for African Healthcare by the MedCare Team*
+*Built with ❤️ for African Healthcare by the Bytecraft Team*
